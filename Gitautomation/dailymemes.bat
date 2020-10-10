@@ -1,0 +1,3 @@
+@echo off
+
+dailymemes.py
